@@ -11,4 +11,8 @@ public class Dog {
 
    void sleeping() {
    }
+
+     public String  mail(String t){
+     return "Hello";
+}
 }
